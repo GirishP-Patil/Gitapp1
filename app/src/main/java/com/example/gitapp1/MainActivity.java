@@ -8,7 +8,10 @@ import android.view.View;
 public class MainActivity extends AppCompatActivity {
 
 
-	Textviet textview;
+	// adding more feature here for new release
+	Textview textview;
+	Textview textbackground;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
