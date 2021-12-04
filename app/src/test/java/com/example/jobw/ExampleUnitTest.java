@@ -1,4 +1,4 @@
-package com.example.gitapp1;
+package com.example.jobw;
 
 import org.junit.Test;
 
